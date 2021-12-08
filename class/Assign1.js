@@ -14,7 +14,7 @@ console.log(sqarr);
 let div5 = arr1.filter(v => v%5==0);
 console.log(div5);
 
-//5.object with 5 key value pairs
+//4.object with 5 key value pairs
 var Student = {
     name : "Yash Varshney",
     rollNo : "193057",
