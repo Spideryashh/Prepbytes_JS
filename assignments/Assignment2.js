@@ -11,6 +11,9 @@ let inputArray2 = [22,33,0,1]
 console.log(reverse(inputArray));
 console.log(reverse(inputArray2));
 
+//output : [ 55, 44, 3, 2, 1 ]
+//         [ 1, 0, 33, 22 ]
+
 //----------------------------------------------------------
 
 //Q2 => Reverse the string
@@ -26,3 +29,8 @@ let str = "students";
 let str2 = "userdata";
 console.log(reverseString(str));
 console.log(reverseString(str2));
+
+// output : stneduts
+//          atadresu
+
+//-----------------------------------------------------------------
