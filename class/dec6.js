@@ -15,7 +15,7 @@ console.log(input);
 // for each loop => doesn;t return anything , reads the value
 input.forEach((num1 , index)=>{
     return input[index] = num1*num1;
-    // console.log("array values are",num , index)
+    console.log("array values are",num , index)
 })
 console.log("array values are ",input)
 

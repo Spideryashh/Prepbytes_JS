@@ -1,0 +1,19 @@
+// 4 files
+.html
+.css
+.ts
+.spec.ts
+
+
+// javascript type independent
+
+var a =2;
+a = "dregreg"
+
+// Typescript [.ts]
+we have to define var types
+
+
+Angular (developed by google) = framework  (works on typescript)
+React (developed by facebook)  = Library 
+
